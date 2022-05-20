@@ -15,3 +15,4 @@ rm bhol.sh
 nano bhol.sh
 cat bhol.sh
 bash bhol.sh
+export
