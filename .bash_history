@@ -9,3 +9,8 @@ bash bhol.sh
 cd ~/MCW-Cloud-native-applications/Hands-on\ lab/lab-files/developer/scripts
 vi bhol.sh
 ls
+bash bhol.sh
+del bhol.sh
+rm bhol.sh
+nano bhol.sh
+cat bhol.sh

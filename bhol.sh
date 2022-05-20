@@ -1,4 +1,3 @@
-
 #!/bin/bash
 
 function replace_json_field {
@@ -64,4 +63,3 @@ gh secret set ACR_PASSWORD -b "$ACR_PASSWORD"
 cd ~/Fabmedical
 git branch -m master main
 git push -u origin main
-
