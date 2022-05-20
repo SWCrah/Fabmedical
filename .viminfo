@@ -11,6 +11,8 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:qal
+|2,0,1653012522,,"qal"
 :wq
 |2,0,1653012174,,"wq"
 :qa!
@@ -27,16 +29,30 @@
 # Registers:
 
 # File marks:
-'0  67  0  ~/bhol.sh
-|4,48,67,0,1653012174,"~/bhol.sh"
-'1  1  0  ~/bhol.sh
-|4,49,1,0,1653012024,"~/bhol.sh"
-'2  1  0  ~/bhol.sh
-|4,50,1,0,1653012024,"~/bhol.sh"
+'0  56  0  ~/bhol.sh
+|4,48,56,0,1653012522,"~/bhol.sh"
+'1  67  0  ~/bhol.sh
+|4,49,67,0,1653012174,"~/bhol.sh"
+'2  67  0  ~/bhol.sh
+|4,50,67,0,1653012174,"~/bhol.sh"
+'3  1  0  ~/bhol.sh
+|4,51,1,0,1653012024,"~/bhol.sh"
+'4  1  0  ~/bhol.sh
+|4,52,1,0,1653012024,"~/bhol.sh"
+'5  1  0  ~/bhol.sh
+|4,53,1,0,1653012024,"~/bhol.sh"
+'6  1  0  ~/bhol.sh
+|4,54,1,0,1653012024,"~/bhol.sh"
 
 # Jumplist (newest first):
+-'  56  0  ~/bhol.sh
+|4,39,56,0,1653012522,"~/bhol.sh"
+-'  67  0  ~/bhol.sh
+|4,39,67,0,1653012490,"~/bhol.sh"
 -'  67  0  ~/bhol.sh
 |4,39,67,0,1653012174,"~/bhol.sh"
+-'  1  0  ~/bhol.sh
+|4,39,1,0,1653012092,"~/bhol.sh"
 -'  1  0  ~/bhol.sh
 |4,39,1,0,1653012092,"~/bhol.sh"
 -'  1  0  ~/bhol.sh
@@ -45,8 +61,8 @@
 # History of marks within files (newest to oldest):
 
 > ~/bhol.sh
-	*	1653012166	0
-	"	67	0
+	*	1653012514	0
+	"	56	0
 	^	67	0
 	.	66	23
 	+	1	0
