@@ -16,3 +16,4 @@ nano bhol.sh
 cat bhol.sh
 bash bhol.sh
 export
+bash bhol.sh
